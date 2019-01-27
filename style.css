@@ -22,8 +22,8 @@ body {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    margin: 2% auto;
-    width: 80%;
+    margin: 5% auto;
+    width: 90%;
     height: auto;
 
 }
@@ -35,11 +35,11 @@ body {
     border-radius: 10px;
     position: relative;
     margin: 1%;
-    width: auto;
+    /*width: auto;*/
     height: auto;
     display: flex;
     align-items: center;
-    justify-content: flex-start; /*выравнивание по правому краю*/
+    justify-content: center; /*выравнивание по правому краю*/
     flex-wrap: wrap; /*элемены переходят на новую строку*/
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     /*align-items: stretch; !*растягивает на высоту всего родительского элемента*!*/
