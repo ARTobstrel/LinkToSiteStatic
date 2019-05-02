@@ -85,6 +85,10 @@ body, html {
     font-size: 18px;
 }
 
+.reffer a img {
+    width: 48px;
+}
+
 #author {
     position: fixed;
     bottom: 5px;
